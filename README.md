@@ -1,0 +1,2 @@
+# aminoria
+Aminor IA
